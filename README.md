@@ -61,10 +61,6 @@ Aplicación web full stack con base de datos y lógica backend. Proyecto base de
 ## 🚀 Cómo usar este portafolio
 
 1. **Clona el repositorio:**
-   ```bash
-   git clone [tu-repo-url]
-   cd Mi-Portafolio
-   ```
 
 2. **Abre en tu navegador:**
    ```bash
